@@ -59,6 +59,8 @@ class ChartingState extends MusicBeatState
 		'',
 		'Alt Animation',
 		'Hey!',
+		'Markuv',
+        'Cupcake' 
 		'Hurt Note',
 		'GF Sing',
 		'No Animation'
@@ -84,7 +86,8 @@ class ChartingState extends MusicBeatState
 		['Opponent Anim', "Value 1: Character to change (dad, gf)\nValue 2: Camera position (1 = normal, 2 = gf)"],
 		['Super Fade', "Value 1: Opacity"],
 		['Super Flash', "Value 1: Flash duration"],
-		['Zoom Amount', "Value 1: Changes the \"defaultCamZoom\""]
+		['Zoom Amount', "Value 1: Changes the \"defaultCamZoom\""], 
+		['Image Flash', "Value 1: is the name of the image/nValue 2: is how long it's there for"]
 	];
 
 	var _file:FileReference;
